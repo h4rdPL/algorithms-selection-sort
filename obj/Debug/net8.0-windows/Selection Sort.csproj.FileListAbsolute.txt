@@ -1,0 +1,19 @@
+D:\_programowanie\_learning\.NET\Selection Sort\obj\Debug\net8.0-windows\MainWindow.baml
+D:\_programowanie\_learning\.NET\Selection Sort\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\_programowanie\_learning\.NET\Selection Sort\obj\Debug\net8.0-windows\App.g.cs
+D:\_programowanie\_learning\.NET\Selection Sort\obj\Debug\net8.0-windows\Selection Sort_MarkupCompile.cache
+D:\_programowanie\_learning\.NET\Selection Sort\obj\Debug\net8.0-windows\Selection Sort.g.resources
+D:\_programowanie\_learning\.NET\Selection Sort\obj\Debug\net8.0-windows\Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\_programowanie\_learning\.NET\Selection Sort\obj\Debug\net8.0-windows\Selection Sort.AssemblyInfoInputs.cache
+D:\_programowanie\_learning\.NET\Selection Sort\obj\Debug\net8.0-windows\Selection Sort.AssemblyInfo.cs
+D:\_programowanie\_learning\.NET\Selection Sort\obj\Debug\net8.0-windows\Selection Sort.csproj.CoreCompileInputs.cache
+D:\_programowanie\_learning\.NET\Selection Sort\bin\Debug\net8.0-windows\Selection Sort.exe
+D:\_programowanie\_learning\.NET\Selection Sort\bin\Debug\net8.0-windows\Selection Sort.deps.json
+D:\_programowanie\_learning\.NET\Selection Sort\bin\Debug\net8.0-windows\Selection Sort.runtimeconfig.json
+D:\_programowanie\_learning\.NET\Selection Sort\bin\Debug\net8.0-windows\Selection Sort.dll
+D:\_programowanie\_learning\.NET\Selection Sort\bin\Debug\net8.0-windows\Selection Sort.pdb
+D:\_programowanie\_learning\.NET\Selection Sort\obj\Debug\net8.0-windows\Selection Sort.dll
+D:\_programowanie\_learning\.NET\Selection Sort\obj\Debug\net8.0-windows\refint\Selection Sort.dll
+D:\_programowanie\_learning\.NET\Selection Sort\obj\Debug\net8.0-windows\Selection Sort.pdb
+D:\_programowanie\_learning\.NET\Selection Sort\obj\Debug\net8.0-windows\Selection Sort.genruntimeconfig.cache
+D:\_programowanie\_learning\.NET\Selection Sort\obj\Debug\net8.0-windows\ref\Selection Sort.dll
